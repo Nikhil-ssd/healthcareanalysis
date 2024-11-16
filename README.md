@@ -10,7 +10,7 @@ https://public.tableau.com/views/CapstoneProject1_17167924483320/Healthcare?:lan
 
 #### Dataset Information
 
-The Healthcare CSV sheet contains 768 rows and 9 columns namely 1)ID	2)Age	3)Blood Pressure Systolic	4)BMI	5)Diabetes Pedigree Function 6)Glucose 7)Insulin 8)Outcome 9)Skin Thickness
+The Healthcare Data CSV sheet contains 768 rows and 9 columns namely 1)ID	2)Age	3)Blood Pressure Systolic	4)BMI	5)Diabetes Pedigree Function 6)Glucose 7)Insulin 8)Outcome 9)Skin Thickness
 
 #### Instructions
 Use Healthcare.xls data.
