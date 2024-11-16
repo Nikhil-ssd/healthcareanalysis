@@ -13,7 +13,7 @@ https://public.tableau.com/views/CapstoneProject1_17167924483320/Healthcare?:lan
 The Healthcare Data CSV sheet contains 768 rows and 9 columns namely 1)ID	2)Age	3)Blood Pressure Systolic	4)BMI	5)Diabetes Pedigree Function 6)Glucose 7)Insulin 8)Outcome 9)Skin Thickness
 
 #### Instructions
-Use Healthcare.xls data.
+Use Healthcare Data.csv data.
 Note that you can use either Tableau Public or Desktop to find the answer.
 If you are using Tableau Desktop, the Sample Superstore dataset should be present in the Saved Data sources and will also be present in your My Tableau Repository folder on your local machine.
 Data should be an Extract and not a ‘Live’ connection.
