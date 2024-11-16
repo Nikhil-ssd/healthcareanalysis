@@ -92,6 +92,15 @@ Story Point 1: Should contain Dashboard 1
 Story Point 2: Should contain Dashboard 2
 Story Point 3: Should contain Heat Map Worksheet
 
+### Instructions on how to run this project code on your system
+Step 1 : Download this project repository as a zip file. 
+Step 2 : Unzip the folder to your desired location 
+Step 3 : If you don't have Tableau Public Installed , go to https://www.tableau.com/products/public/download, download the installer, install Tableau public and launch it. 
+Step 5 : Navigate to this project folder. 
+Step 6 : When inside navigate to Healthcare
+Step 7 : Open the Capstone Project 1.twbx using Tableau Public. 
+Step 8 : Go through the Tableau Project Requirements mentioned above and compare the visuals in the Tableau Workbook accordingly.
+
 ### Purpose of Solving this problem
 
 Analyzing patient healthcare data such as blood pressure, BMI, glucose levels, insulin, and diabetes for patients aged 20+ using Tableau can serve numerous critical purposes in healthcare management, prevention, and policy formulation. Tableau's data visualization capabilities help uncover insights that can improve patient outcomes and resource allocation. Here are some key purposes:
