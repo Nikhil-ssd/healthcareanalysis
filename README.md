@@ -10,14 +10,7 @@ https://public.tableau.com/views/CapstoneProject1_17167924483320/Healthcare?:lan
 
 #### Dataset Information
 
-The Sample - Superstore.xls excel sheet contains 3 tabs namely Orders, People and Returns. 
-
-A) The Orders tab contains 9,994 rows and 21 columns namely 1) Row ID	2) Order ID	3) Order Date	4) Ship Date 5) Ship Mode	6) Customer ID	7) Customer Name	8) Segment	9) Country/Region	10) City	
-11) State	12) Postal Code	13) Region	14) Product ID	15) Category	16) Sub-Category	17) Product Name	18) Sales	19) Quantity	20) Discount	21) Profit
-
-B) The People tab contains 4 rows and 2 columns namely 1) Regional Manager	2) Region
-
-C) The Returns tab contains 800 rows and 2 columns namely 1) Returned	2) Order ID
+The Healthcare CSV sheet contains 768 rows and 9 columns namely 1)ID	2)Age	3)Blood Pressure Systolic	4)BMI	5)Diabetes Pedigree Function 6)Glucose 7)Insulin 8)Outcome 9)Skin Thickness
 
 #### Instructions
 Use Healthcare.xls data.
